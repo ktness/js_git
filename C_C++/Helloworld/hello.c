@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf ("Hello. Jaesoo. C Language English\n");
+    printf ("Hello. Jaesoo. C Language English Korean\n");
 
     return 0;
 }
